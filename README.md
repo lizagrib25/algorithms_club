@@ -1,2 +1,3 @@
-# algorithms
+# Algorithms
 
+* Hometask 00
